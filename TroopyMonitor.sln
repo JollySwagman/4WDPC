@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroopyMonitor.Business", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroopyMonitor.Test", "TroopyMonitor.Test\TroopyMonitor.Test.csproj", "{DA615CE4-8F86-4015-996E-8DCBA98A29AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroopyMonitor.Console", "TroopyMonitor.Console\TroopyMonitor.Console.csproj", "{4EC3E23A-D12E-4398-B9A5-3A8C91338EE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA615CE4-8F86-4015-996E-8DCBA98A29AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA615CE4-8F86-4015-996E-8DCBA98A29AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA615CE4-8F86-4015-996E-8DCBA98A29AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC3E23A-D12E-4398-B9A5-3A8C91338EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC3E23A-D12E-4398-B9A5-3A8C91338EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC3E23A-D12E-4398-B9A5-3A8C91338EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC3E23A-D12E-4398-B9A5-3A8C91338EE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
